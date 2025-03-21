@@ -1,4 +1,4 @@
-Antes de probar el proyecto se deben de ejecutar estos dos comandos abriendo una consola en el directorio raíz del proyecto:
+Antes de probar el proyecto mover la carpeta consultas_y_bbdd fuera de este, ya que contiene la colección de consultas y el script para la creación de la BBDD, y posteriormente, se deben de ejecutar estos dos comandos abriendo una consola en el directorio raíz del proyecto, el cual habrá de ser renombrado como tienda, para que las consultas funcionen correctamente:
 - ```composer install```
 -  ```npm install```
   
